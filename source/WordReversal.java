@@ -17,7 +17,7 @@ public class WordReversal
                
 
                reversed=reversed+String.valueOf(str.charAt(i));
-            
+            system.out.println("GUIBranch")
             }
              System.out.println("The reversed version is: "+reversed);
                 
