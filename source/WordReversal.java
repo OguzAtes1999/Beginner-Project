@@ -5,7 +5,7 @@ import java.lang.StringBuilder;
 public class WordReversal
 {
  
-       public static void main (String[] args)
+       public static void WordReversall (String[] args)
        {
              Scanner sc= new Scanner(System.in); //System.in is a standard input stream
              System.out.print("Enter a string:");
@@ -17,7 +17,7 @@ public class WordReversal
                
 
                reversed=reversed+String.valueOf(str.charAt(i));
-            system.out.println("GUIBranch")
+            System.out.println("GUIBranch");
             }
              System.out.println("The reversed version is: "+reversed);
                 
